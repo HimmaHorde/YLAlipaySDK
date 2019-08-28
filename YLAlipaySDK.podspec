@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "YLAlipaySDK"
-  s.version      = "15.5.9"
+  s.version      = "15.6.5"
   s.summary      = "AlipaySDK 镜像"
 
   s.homepage     = "http://www.jianshu.com/users/d2c069de1a7d"
