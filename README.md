@@ -9,7 +9,7 @@
 pod 版本号以同步官方版本号
 
 ```c
-pod 'YLAlipaySDK', '~> 15.6.5'
+pod 'YLAlipaySDK', '~> 15.7.7'
 ```
 
 ## 官方版本已发布
