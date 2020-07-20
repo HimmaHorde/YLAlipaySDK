@@ -15,10 +15,10 @@ Pod::Spec.new do |s|
   s.source_files          = "AlipaySDK.framework/Headers/*.h",
   s.public_header_files 	= 'AlipaySDK.framework/Headers/*.h'
 
-  s.frameworks = "SystemConfiguration", "QuartzCore","CoreTelephony","CoreGraphics","CoreText","CoreMotion","CFNetwork"
+  s.frameworks = "SystemConfiguration", "QuartzCore","CoreTelephony","CoreGraphics","CoreText","CoreMotion","CFNetwork","WebKit"
   s.libraries  = "c++", "z"
 
-  s.platform      = :ios, "6.0"
+  s.platform      = :ios, "8.0"
   s.requires_arc  = true
 
 
