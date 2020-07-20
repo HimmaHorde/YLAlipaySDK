@@ -12,3 +12,5 @@ pod 版本号以同步官方版本号
 pod 'YLAlipaySDK', '~> 15.6.5'
 ```
 
+## 官方版本已发布
+pod  'AlipaySDK-iOS'
